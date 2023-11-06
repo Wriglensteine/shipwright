@@ -1,0 +1,8 @@
+name,wood,iron,gunpowder,time,value,era
+Galleon,5,2,2,2,12,old
+Galley,3,1,0,1,4,old
+Galleass,4,1,1,1,7,old
+Junk,3,0,1,1,4,old
+Sloop,3,1,0,1,4,old
+Caravel,4,2,1,1,8,old
+Brig,5,1,1,2,10,old
